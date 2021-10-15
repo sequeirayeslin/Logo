@@ -90,6 +90,6 @@ mango.left(90)
 mango.forward(r)
 mango.right(90)
 
-mango.getscreen().getcanvas().postscript(file="f65.eps")
+mango.getscreen().getcanvas().postscript(file="logo.eps")
 
 wn.exitonclick()
