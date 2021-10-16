@@ -1,5 +1,5 @@
 import turtle
-from math import sqrt, pi
+from math import sqrt, pi, sin
 
 
 def hsl2hex(hue,sat,lum):
